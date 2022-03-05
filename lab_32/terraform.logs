@@ -1,0 +1,30 @@
+2022-03-05T19:53:09.366Z [INFO]  Terraform version: 1.1.6
+2022-03-05T19:53:09.366Z [INFO]  Go runtime version: go1.17.2
+2022-03-05T19:53:09.366Z [INFO]  CLI args: []string{"terraform", "init"}
+2022-03-05T19:53:09.366Z [DEBUG] Attempting to open CLI config file: /Users/michael.chinaloy/.terraformrc
+2022-03-05T19:53:09.366Z [DEBUG] File doesn't exist, but doesn't need to. Ignoring.
+2022-03-05T19:53:09.367Z [DEBUG] ignoring non-existing provider search directory terraform.d/plugins
+2022-03-05T19:53:09.367Z [DEBUG] ignoring non-existing provider search directory /Users/michael.chinaloy/.terraform.d/plugins
+2022-03-05T19:53:09.367Z [DEBUG] ignoring non-existing provider search directory /Users/michael.chinaloy/Library/Application Support/io.terraform/plugins
+2022-03-05T19:53:09.367Z [DEBUG] ignoring non-existing provider search directory /Library/Application Support/io.terraform/plugins
+2022-03-05T19:53:09.369Z [INFO]  CLI command args: []string{"init"}
+2022-03-05T19:53:09.377Z [DEBUG] New state was assigned lineage "12da662a-0057-de7e-a461-49206217e4f8"
+2022-03-05T19:53:10.448Z [DEBUG] checking for provisioner in "."
+2022-03-05T19:53:10.463Z [DEBUG] checking for provisioner in "/usr/local/bin"
+2022-03-05T19:53:10.467Z [DEBUG] Service discovery for registry.terraform.io at https://registry.terraform.io/.well-known/terraform.json
+2022-03-05T19:53:11.010Z [DEBUG] GET https://registry.terraform.io/v1/providers/hashicorp/aws/versions
+2022-03-05T19:53:16.560Z [INFO]  Terraform version: 1.1.6
+2022-03-05T19:53:16.560Z [INFO]  Go runtime version: go1.17.2
+2022-03-05T19:53:16.560Z [INFO]  CLI args: []string{"terraform", "init"}
+2022-03-05T19:53:16.560Z [DEBUG] Attempting to open CLI config file: /Users/michael.chinaloy/.terraformrc
+2022-03-05T19:53:16.560Z [DEBUG] File doesn't exist, but doesn't need to. Ignoring.
+2022-03-05T19:53:16.561Z [DEBUG] ignoring non-existing provider search directory terraform.d/plugins
+2022-03-05T19:53:16.561Z [DEBUG] ignoring non-existing provider search directory /Users/michael.chinaloy/.terraform.d/plugins
+2022-03-05T19:53:16.561Z [DEBUG] ignoring non-existing provider search directory /Users/michael.chinaloy/Library/Application Support/io.terraform/plugins
+2022-03-05T19:53:16.561Z [DEBUG] ignoring non-existing provider search directory /Library/Application Support/io.terraform/plugins
+2022-03-05T19:53:16.561Z [INFO]  CLI command args: []string{"init"}
+2022-03-05T19:53:16.562Z [DEBUG] New state was assigned lineage "6a66c03e-e2ea-7057-776b-ad49f4f730c4"
+2022-03-05T19:53:17.498Z [DEBUG] checking for provisioner in "."
+2022-03-05T19:53:17.511Z [DEBUG] checking for provisioner in "/usr/local/bin"
+2022-03-05T19:53:17.512Z [DEBUG] Service discovery for registry.terraform.io at https://registry.terraform.io/.well-known/terraform.json
+2022-03-05T19:53:17.719Z [DEBUG] GET https://registry.terraform.io/v1/providers/hashicorp/aws/versions
